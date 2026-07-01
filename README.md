@@ -6,7 +6,7 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** web application t
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Express](https://img.shields.io/badge/Backend-Express-black)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 ---
 
